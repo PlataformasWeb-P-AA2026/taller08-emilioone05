@@ -117,18 +117,18 @@ Por cada país: continente, número de jugadores y total de goles.
 Base de datos `paises.db` con 1000 jugadores cargados,
 visualizada en DB Browser for SQLite.
 
-![SQLite DB Browser](evidencia_sqlite.png)
+<img width="1790" height="1149" alt="image" src="https://github.com/user-attachments/assets/3732d82d-01c9-4760-a625-4c34ad0df9d9" />
 
 ### MySQL — Terminal
 Base de datos `paises` creada automáticamente en MySQL Server,
 con las 3 tablas: `continente`, `pais`, `jugador`.
 
-![MySQL Terminal](evidencia_mysql.png)
+<img width="1698" height="1108" alt="image" src="https://github.com/user-attachments/assets/8789e8c7-84b4-4a2f-80e3-4c1248eed4cf" />
 
 ### Frontend Streamlit
 App corriendo en `localhost:8501` con las 3 tablas solicitadas.
 
-![Streamlit](evidencia_streamlit.png)
+<img width="1859" height="1129" alt="image" src="https://github.com/user-attachments/assets/1e144003-31dc-43db-b994-f93c06519492" />
 
 ---
 
